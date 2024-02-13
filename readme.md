@@ -8,7 +8,7 @@ This project aims to demonstrate the knowledge and skills acquired during the Ja
 
 ## Table of Contents
 
-- [Deployment] (https://mossmax62.github.io/javascript-desafio-5/)
+- [Deployment](https://mossmax62.github.io/javascript-desafio-5/)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
