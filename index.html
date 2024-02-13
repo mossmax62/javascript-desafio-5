@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TODO LIST - Max Mussuto - Desafio Latam - Desafio 5</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>TODO LIST Max Mussuto</h1>
+    <hr>
+    <label>Nueva tarea</label>
+    <div class="d-flex p-2">
+    <input type="text" id="nombre" class="form-control">
+    &nbsp;
+    <button class="btn btn-primary p-2" id="agregar">Agregar</button>
+    </div>
+    <div class="row p-2">
+        <div class="d-flex col-sm flex-column p-2">
+            <div class="d-flex">
+            <label>Total : &nbsp;</label>
+            <label id="total"></label>
+        </div>
+        <div class="d-flex">
+            <label>Realizadas : &nbsp; </label>
+            <label id="realizadas"></label>
+        </div>
+        </div>
+        
+        
+        
+        <div class="col-sm">
+            <div class="row">
+                <label class="col">ID</label>
+                <label class="col">Tareas</label>
+                <label class="col">Estado</label>
+                <label class="col">Acciones</label>
+            </div>
+            <div id="tareas">
+            </div>
+            
+        </div>
+
+    </div>
+</div>
+<script src="./assets/js/script.js"></script>
+</body>
+</html>
