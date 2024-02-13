@@ -29,6 +29,7 @@ botonAgregar.onclick = agregar;
 
 const eliminar = (id) => {
     tareas = tareas.filter(tarea => tarea.id !== id);
+    labelTotal.innerHTML = tareas.length;
     render();
 }
 
