@@ -18,8 +18,8 @@ This project aims to demonstrate the knowledge and skills acquired during the Ja
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
-2. Navigate to the project directory: `cd project-name`
+1. Clone the repository: `git clone https://github.com/mossmax62/javascript-desafio-5.git`
+2. Navigate to the project directory: `cd javascript-desafio-5`
 3. Open the project locally in your browser: `open index.html`
 
 ## Usage
