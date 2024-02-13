@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
 2. Navigate to the project directory: `cd project-name`
-3. Install the dependencies: `npm install`
+3. Open the project locally in your browser: `open index.html`
 
 ## Usage
 
@@ -28,7 +28,7 @@ To use this project, follow these steps:
 
 1. Open the project in your preferred code editor.
 2. Modify the necessary files according to your requirements.
-3. Run the project: `npm start`
+3. Run the project: `open index.html`
 
 ## Contributing
 
